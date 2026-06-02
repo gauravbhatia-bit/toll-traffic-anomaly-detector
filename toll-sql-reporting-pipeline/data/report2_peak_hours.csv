@@ -1,0 +1,121 @@
+segment_name,hour,time_category,transactions,revenue,hour_rank
+A100_Berlin,0,Night,1983,2854.32,17
+A100_Berlin,1,Night,1816,2583.98,24
+A100_Berlin,2,Night,1894,2669.66,21
+A100_Berlin,3,Night,1936,2768.01,19
+A100_Berlin,4,Night,1868,2696.6,23
+A100_Berlin,5,Night,1872,2772.21,22
+A100_Berlin,6,Off-Peak,5201,7428.65,10
+A100_Berlin,7,Morning Rush,9555,13795.18,3
+A100_Berlin,8,Morning Rush,9524,13806.81,4
+A100_Berlin,9,Morning Rush,9647,14001.18,1
+A100_Berlin,10,Off-Peak,5067,7357.09,13
+A100_Berlin,11,Off-Peak,5028,7272.67,15
+A100_Berlin,12,Off-Peak,5166,7480.39,11
+A100_Berlin,13,Off-Peak,5257,7604.57,9
+A100_Berlin,14,Off-Peak,5315,7592.36,8
+A100_Berlin,15,Off-Peak,5045,7131.86,14
+A100_Berlin,16,Off-Peak,4944,6957.27,16
+A100_Berlin,17,Evening Rush,9429,13511.1,6
+A100_Berlin,18,Evening Rush,9586,13696.56,2
+A100_Berlin,19,Evening Rush,9515,13612.01,5
+A100_Berlin,20,Off-Peak,5327,7630.47,7
+A100_Berlin,21,Off-Peak,5152,7367.72,12
+A100_Berlin,22,Night,1973,2828.3,18
+A100_Berlin,23,Night,1922,2717.77,20
+A1_Nord,0,Night,1886,10753.95,21
+A1_Nord,1,Night,1845,10234.75,23
+A1_Nord,2,Night,1899,10314.24,20
+A1_Nord,3,Night,1836,10189.91,24
+A1_Nord,4,Night,1927,11008.28,18
+A1_Nord,5,Night,1868,9961.49,22
+A1_Nord,6,Off-Peak,5153,28587.73,11
+A1_Nord,7,Morning Rush,9651,54144.82,4
+A1_Nord,8,Morning Rush,9667,54828.19,3
+A1_Nord,9,Morning Rush,9701,54149.1,2
+A1_Nord,10,Off-Peak,5169,29054.13,10
+A1_Nord,11,Off-Peak,5237,29380.65,8
+A1_Nord,12,Off-Peak,4999,28756.61,15
+A1_Nord,13,Off-Peak,4931,27876.04,16
+A1_Nord,14,Off-Peak,5108,28404.43,12
+A1_Nord,15,Off-Peak,5096,28077.8,14
+A1_Nord,16,Off-Peak,5327,30443.3,7
+A1_Nord,17,Evening Rush,9910,56212.94,1
+A1_Nord,18,Evening Rush,9421,52101.68,5
+A1_Nord,19,Evening Rush,9318,52439.29,6
+A1_Nord,20,Off-Peak,5230,28985.17,9
+A1_Nord,21,Off-Peak,5099,29099.58,13
+A1_Nord,22,Night,2007,11215.85,17
+A1_Nord,23,Night,1922,10468.37,19
+A2_Ost,0,Night,2027,20425.94,17
+A2_Ost,1,Night,1907,18291.86,23
+A2_Ost,2,Night,1960,19675.22,19
+A2_Ost,3,Night,1911,18125.11,22
+A2_Ost,4,Night,1960,19729.16,19
+A2_Ost,5,Night,1927,19426.94,21
+A2_Ost,6,Off-Peak,5071,50090.68,13
+A2_Ost,7,Morning Rush,9578,94142.26,3
+A2_Ost,8,Morning Rush,9629,94036.71,2
+A2_Ost,9,Morning Rush,9500,92521.73,4
+A2_Ost,10,Off-Peak,5067,49173.53,14
+A2_Ost,11,Off-Peak,5278,51576.88,10
+A2_Ost,12,Off-Peak,5057,49241.66,15
+A2_Ost,13,Off-Peak,5363,53339.46,7
+A2_Ost,14,Off-Peak,4985,49239.36,16
+A2_Ost,15,Off-Peak,5327,51451.27,9
+A2_Ost,16,Off-Peak,5174,50331.57,11
+A2_Ost,17,Evening Rush,9499,93363.94,5
+A2_Ost,18,Evening Rush,9668,93880.21,1
+A2_Ost,19,Evening Rush,9454,93080.33,6
+A2_Ost,20,Off-Peak,5358,53418.62,8
+A2_Ost,21,Off-Peak,5095,49905.77,12
+A2_Ost,22,Night,1962,19223.86,18
+A2_Ost,23,Night,1758,17363.6,24
+A7_West,0,Night,1931,13112.01,23
+A7_West,1,Night,1988,13189.34,17
+A7_West,2,Night,1940,12623.36,21
+A7_West,3,Night,1940,12936.29,21
+A7_West,4,Night,1858,12255.51,24
+A7_West,5,Night,1947,12752.28,20
+A7_West,6,Off-Peak,5129,33928.21,13
+A7_West,7,Morning Rush,9598,63359.27,3
+A7_West,8,Morning Rush,9343,60890.37,6
+A7_West,9,Morning Rush,9825,64965.33,1
+A7_West,10,Off-Peak,5177,34524.23,12
+A7_West,11,Off-Peak,4993,33465.95,16
+A7_West,12,Off-Peak,5201,34846.83,11
+A7_West,13,Off-Peak,5210,34752.02,9
+A7_West,14,Off-Peak,5227,34918.21,7
+A7_West,15,Off-Peak,5044,34032.68,15
+A7_West,16,Off-Peak,5064,34179.24,14
+A7_West,17,Evening Rush,9758,64849.73,2
+A7_West,18,Evening Rush,9574,63505.44,4
+A7_West,19,Evening Rush,9570,63630.03,5
+A7_West,20,Off-Peak,5210,34279.38,9
+A7_West,21,Off-Peak,5224,34543.09,8
+A7_West,22,Night,1954,12737.52,19
+A7_West,23,Night,1964,12796.83,18
+A9_Sued,0,Night,1875,15014.2,21
+A9_Sued,1,Night,1908,15061.7,19
+A9_Sued,2,Night,1857,14466.89,22
+A9_Sued,3,Night,1824,14167.05,23
+A9_Sued,4,Night,1810,14150.89,24
+A9_Sued,5,Night,1955,15645.5,18
+A9_Sued,6,Off-Peak,5138,39398.07,9
+A9_Sued,7,Morning Rush,9421,73280.75,5
+A9_Sued,8,Morning Rush,9728,77653.79,1
+A9_Sued,9,Morning Rush,9597,75743.56,3
+A9_Sued,10,Off-Peak,4941,39045.58,16
+A9_Sued,11,Off-Peak,4999,38832.73,14
+A9_Sued,12,Off-Peak,5086,38947.67,12
+A9_Sued,13,Off-Peak,4955,39768.08,15
+A9_Sued,14,Off-Peak,5332,43497.53,7
+A9_Sued,15,Off-Peak,5125,40628.43,10
+A9_Sued,16,Off-Peak,5197,39993.16,8
+A9_Sued,17,Evening Rush,9624,75838.62,2
+A9_Sued,18,Evening Rush,9408,74509.69,6
+A9_Sued,19,Evening Rush,9443,74389.34,4
+A9_Sued,20,Off-Peak,5069,39974.41,13
+A9_Sued,21,Off-Peak,5098,39193.46,11
+A9_Sued,22,Night,2006,15359.1,17
+A9_Sued,23,Night,1882,15031.63,20
